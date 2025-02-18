@@ -1,0 +1,9 @@
+streamlit
+chromadb>=0.4.22
+arxiv
+langchain
+langchain-community
+langchain-groq
+python-dotenv
+numpy
+scikit-learn 
